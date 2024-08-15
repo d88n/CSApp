@@ -1,4 +1,4 @@
-Simple console Server Client for learning purpose.
+<h1> Simple console Server Client for learning purpose. </h1>
 
 On G++ both ClientSide and ServerSide starts with additional -lws2_32 command.
 
